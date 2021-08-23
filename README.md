@@ -8,6 +8,7 @@ An empty format for future personal use
 
 ### economics
 
+- [행동의전염](economics/행동의전염.md)
 - [내러티브 경제학](economics/내러티브-경제학.md)
 
 ### meta
