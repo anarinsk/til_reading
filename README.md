@@ -15,3 +15,7 @@ An empty format for future personal use
 
 - [Today I Learned](meta/today-i-learned.md)
 
+### novel
+
+- [레이디조커](novel/레이디조커.md)
+
