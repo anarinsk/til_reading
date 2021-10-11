@@ -10,6 +10,7 @@ An empty format for future personal use
 
 - [행동의전염](economics/행동의전염.md)
 - [내러티브 경제학](economics/내러티브-경제학.md)
+- [무역전쟁은계급전쟁이다](economics/무역전쟁은계급전쟁이다.md)
 
 ### meta
 
