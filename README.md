@@ -18,5 +18,6 @@ An empty format for future personal use
 
 ### novel
 
+- [관리자들](novel/관리자들.md)
 - [레이디조커](novel/레이디조커.md)
 
