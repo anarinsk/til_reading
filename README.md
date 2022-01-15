@@ -9,8 +9,12 @@ An empty format for future personal use
 ### economics
 
 - [무역전쟁은계급전쟁이다](economics/무역전쟁은계급전쟁이다.md)
-- [내러티브 경제학](economics/내러티브-경제학.md)
 - [행동의전염](economics/행동의전염.md)
+- [내러티브 경제학](economics/내러티브-경제학.md)
+
+### causal-inference-mixtape
+
+- [Chapter2](causal-inference-mixtape/chapter2.md)
 
 ### meta
 
