@@ -14,7 +14,7 @@ An empty format for future personal use
 
 ### meta
 
-- [Today I Learned](meta/today-i-learned.md)
+- [Today I Learned](til_reading/meta/today-i-learned.md)
 
 ### novel
 
